@@ -23,4 +23,42 @@ export const websites = [
         name: "Online Exam Help US",
         url: "https://onlineexamhelp.us.com/  "
     },
+    {
+        name: 'Do My Assignments UK',
+        url: 'https://domyassignments.uk/'
+    },
+
+    {
+        name: 'Dissetation Us Com',
+        url: 'https://dissertation.us.com/'
+    },
+    {
+        name: 'Assignment Help Australia',
+        url: 'https://assignmenthelpaustralia.au/'
+    },
+
+    {
+        name: 'Dissertation Help Dubai',
+        url: 'https://dissertationhelpdubai.ae/'
+    },
+    {
+        name: 'Do-My-Assignment',
+        url: 'http://do-my-assignment.co.uk/'
+    },
+    {
+        name: 'Help With Exam',
+        url: 'http://helpwithexam.com/'
+    },
+    {
+        name: 'Assignment Writing Service',
+        url: 'https://assignmentwritingservice.co.uk/' 
+    },
+    {
+        name: 'Assinment Helpers',
+        url: 'https://assignmenthelpers.de/'
+    },
+    {
+        name: 'Take My Exam Online',
+        url: 'https://takemyexamonline.co.uk/'
+    }
 ];
